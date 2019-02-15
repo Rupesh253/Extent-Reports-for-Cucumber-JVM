@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="4" tests="4" time="0">
+<testcase classname="First Feature" name="FirstScenario for First Feature" time="0">
+<skipped><![CDATA[Given given statement for background in first feature.......................undefined
+Given given statement for first scenario in first feature...................undefined
+And given&and statement for first scenario in first feature.................undefined
+Then then statement for first scenario in first feature.....................undefined
+And then&and statement for first scenario in first feature..................undefined
+But but statement for first scenario in first feature.......................undefined
+And but&and statement for first scenario in first feature...................undefined
+]]></skipped>
+</testcase>
+<testcase classname="First Feature" name="SecondScenario for First Feature" time="0">
+<skipped><![CDATA[Given given statement for background in first feature.......................undefined
+Given given statement for second scenario in first feature..................undefined
+And given&and statement for second scenario in first feature................undefined
+Then then statement for second scenario in first feature....................undefined
+And then&and statement for second scenario in first feature.................undefined
+But but statement for second scenario in first feature......................undefined
+And but&and statement for second scenario in first feature..................undefined
+]]></skipped>
+</testcase>
+<testcase classname="First Feature" name="ScenarioOutline for First Feature" time="0">
+<skipped><![CDATA[Given given statement for background in first feature.......................undefined
+Given given statement for scenarioOutline in first feature with "A".........undefined
+And given&and statement for scenarioOutline in first feature with "B".......undefined
+Then then statement for scenarioOutline in first feature with "C"...........undefined
+And then&and statement for scenarioOutline in first feature with "D"........undefined
+But but statement for scenarioOutline in first feature with "E".............undefined
+And but&and statement for scenarioOutline in first feature with "F".........undefined
+]]></skipped>
+</testcase>
+<testcase classname="First Feature" name="ScenarioOutline for First Feature 2" time="0">
+<skipped><![CDATA[Given given statement for background in first feature.......................undefined
+Given given statement for scenarioOutline in first feature with "1".........undefined
+And given&and statement for scenarioOutline in first feature with "2".......undefined
+Then then statement for scenarioOutline in first feature with "3"...........undefined
+And then&and statement for scenarioOutline in first feature with "4"........undefined
+But but statement for scenarioOutline in first feature with "5".............undefined
+And but&and statement for scenarioOutline in first feature with "6".........undefined
+]]></skipped>
+</testcase>
+</testsuite>
